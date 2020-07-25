@@ -1,0 +1,12 @@
+{
+  "name": "utoh",
+  "displayName": "utoh",
+  "expo": {
+    "name": "utoh",
+    "slug": "utoh",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
