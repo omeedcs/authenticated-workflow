@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>592634423874-qvdldn8632cqg5icarr27hm40bodgj8g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.592634423874-qvdldn8632cqg5icarr27hm40bodgj8g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCiesNM9kPs9SeDdbQqVs0N0Fr6rHU0TJA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>592634423874</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.name.utoh</string>
+	<key>PROJECT_ID</key>
+	<string>utoh-c6c13</string>
+	<key>STORAGE_BUCKET</key>
+	<string>utoh-c6c13.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:592634423874:ios:303a50c6d81b1bd78f5bdb</string>
+	<key>DATABASE_URL</key>
+	<string>https://utoh-c6c13.firebaseio.com</string>
+</dict>
+</plist>

@@ -47,6 +47,8 @@ end
 
 target 'utoh' do
   # Pods for utoh
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Auth'
   pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
   pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
   pod 'RCTRequired', :path => "../node_modules/react-native/Libraries/RCTRequired"
@@ -86,6 +88,8 @@ target 'utoh' do
   # Note that if you have use_frameworks! enabled, Flipper will not work and
   # you should disable these next few lines.
   add_flipper_pods!
+  pod 'react-native-image-editor', :path => '../node_modules/@react-native-community/image-editor'
+
   post_install do |installer|
     flipper_post_install(installer)
   end

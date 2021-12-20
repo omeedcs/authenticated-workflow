@@ -1,0 +1,40 @@
+Date : 2020-08-02 23:58:29
+Directory : /Users/omeedtehrani/utoh/components
+Total : 16 files,  3624 codes, 693 comments, 323 blanks, all 4640 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         16 |      3,624 |        693 |        323 |      4,640 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                            | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                               |         16 |      3,624 |        693 |        323 |      4,640 |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                        | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/omeedtehrani/utoh/components/AddButton.js                | JavaScript |        140 |          0 |          2 |        142 |
+| /Users/omeedtehrani/utoh/components/CompanyLogo.js              | JavaScript |         57 |          2 |          8 |         67 |
+| /Users/omeedtehrani/utoh/components/CreateAccount.js            | JavaScript |        140 |          3 |         11 |        154 |
+| /Users/omeedtehrani/utoh/components/PhoneAuthScreen.js          | JavaScript |        312 |         23 |         20 |        355 |
+| /Users/omeedtehrani/utoh/components/SideDrawer.js               | JavaScript |         74 |          3 |         11 |         88 |
+| /Users/omeedtehrani/utoh/components/dashboard.js                | JavaScript |         98 |         64 |         35 |        197 |
+| /Users/omeedtehrani/utoh/components/login(X).js                 | JavaScript |        269 |         98 |         37 |        404 |
+| /Users/omeedtehrani/utoh/components/login.js                    | JavaScript |        104 |          6 |         14 |        124 |
+| /Users/omeedtehrani/utoh/components/schoolClassSelect(X).js     | JavaScript |        937 |        130 |         59 |      1,126 |
+| /Users/omeedtehrani/utoh/components/schoolClassSelect.js        | JavaScript |        143 |          3 |         11 |        157 |
+| /Users/omeedtehrani/utoh/components/schoolClassTeacherSelect.js | JavaScript |        222 |         59 |          9 |        290 |
+| /Users/omeedtehrani/utoh/components/selectSignUp.js             | JavaScript |        204 |         43 |         17 |        264 |
+| /Users/omeedtehrani/utoh/components/staffSignUp.js              | JavaScript |        359 |        110 |         29 |        498 |
+| /Users/omeedtehrani/utoh/components/studentSignUp.js            | JavaScript |        361 |        116 |         32 |        509 |
+| /Users/omeedtehrani/utoh/components/tabThree.js                 | JavaScript |         70 |         25 |         16 |        111 |
+| /Users/omeedtehrani/utoh/components/tabTwo.js                   | JavaScript |        134 |          8 |         12 |        154 |
+| Total                                                           |            |      3,624 |        693 |        323 |      4,640 |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
